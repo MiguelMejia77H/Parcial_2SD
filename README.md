@@ -6,4 +6,28 @@ Desarrollo del parcial
 diferentes tipos de latch y flip flops?, explique por favor las
 características
 
-R// Un latch es sensible al nivel de la señal de control (mientras la señal esté activa, la salida puede cambiar). Un flip-flop es sensible al flanco (solo cambia en el momento exacto de subida o bajada del clock)
+R// Flip-Flop: Son los bloques fundamentales de construccion de los circuitos digitales secuenciales, tienen la capacidad de almacenar un bit de informacion ademas de que es un dispositivo con dos estados estables que se utilizan para representar 0 y el 1 binario 
+
+Latch: Es un dispositivo de almacenamiento biestable que es sensible al nivel (activo mientras la señal de control esté en un estado alto o bajo), cambia su estado cuando cambian las entradas es más simple pero menos controlado 
+
+
+### Caracterisitcas de Flip Flops: 
+
+Flip Flop SR (Ser-Reset): Es el tipo mas basico de celda de memoria, su funcionamiento se basa en dos entradas principales 
+
+Set(S): Establece la salida en alto(1)
+
+Reset(R): La establece en bajo(0)
+
+
+
+2. ¿Cuál es la diferencia entre un multiplexor y un demultiplexor?. Desarrollar
+la explicación de un multiplexor 8 entradas y un demultiplexor de 8 salidas.
+
+
+
+3. Explicar de forma sencilla qué es un sumador completo, un sumador medio y
+circuitos secuenciales.
+
+
+4. ¿Qué es un mapa de karnaugh? Y ¿para qué sirve?
