@@ -39,6 +39,9 @@ Un multiplexor (MUX) y un demultiplexor (DEMUX) son circuitos digitales que hace
 
 Un multiplexor de 8 entradas (8:1) recibe 8 señales de datos (I₀ a I₇) y necesita 3 líneas de selección (S₀, S₁, S₂), ya que con 3 bits se pueden representar 2³ = 8 combinaciones posibles. Dependiendo del valor binario que tengan las líneas de selección, la salida Y tomará el valor exacto de la entrada apuntada
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dc5783f8-11a8-41d3-9159-cd40f3bc7618" />
+
+
 Un demultiplexor de 8 salidas (1:8) recibe una sola señal de entrada y también usa 3 líneas de selección para decidir a cuál de sus 8 salidas (Y₀ a Y₇) enviarla. Las demás salidas permanecen en 0. Si S₂S₁S₀ = 011, la señal de entrada aparece únicamente en Y₃, y el resto quedan apagadas. Es la operación inversa al MUX: en lugar de concentrar muchas señales en una, distribuye una señal hacia muchos destinos posibles.
 
 
