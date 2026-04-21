@@ -26,7 +26,7 @@ Su caracterisitca distintiva es el estado de Basculacion cuando ambas entradas J
 
 FLIP- FLOP D: captura el valor de la entrada D en el flanco del reloj y lo mantiene en la salida Q
 
-<img width="200" height="227" alt="image" src="https://github.com/user-attachments/assets/a0ff9a29-27cb-4295-bf12-c7f8e792dcfb" />
+<img width="694" height="227" alt="image" src="https://github.com/user-attachments/assets/a0ff9a29-27cb-4295-bf12-c7f8e792dcfb" />
 
 FLIP-FLOP T: Cambia o bascula el estado de la salida si la entrada T es 1, si T es 0 mantiene el estado anterior 
 <img width="694" height="207" alt="image" src="https://github.com/user-attachments/assets/324528d9-ec79-46ca-ad71-9d433ef85758" />
