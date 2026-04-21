@@ -25,10 +25,11 @@ FLIP-FLOP JK(Universal): Es una version mejorada del SR que elimina el estado in
 Su caracterisitca distintiva es el estado de Basculacion cuando ambas entradas J y K estan en alto(1) y la salida cambia al estado opuesto en cada pulso de relok
 
 FLIP- FLOP D: captura el valor de la entrada D en el flanco del reloj y lo mantiene en la salida Q
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3f981edc-44fa-44e8-ab74-78104b78f034" />
+
+<img width="200" height="227" alt="image" src="https://github.com/user-attachments/assets/a0ff9a29-27cb-4295-bf12-c7f8e792dcfb" />
 
 FLIP-FLOP T: Cambia o bascula el estado de la salida si la entrada T es 1, si T es 0 mantiene el estado anterior 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c60ad606-63df-49e6-ac45-6d29599c9a6a" />
+<img width="694" height="207" alt="image" src="https://github.com/user-attachments/assets/324528d9-ec79-46ca-ad71-9d433ef85758" />
 
 
 
