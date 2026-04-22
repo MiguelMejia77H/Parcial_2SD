@@ -52,5 +52,21 @@ Un demultiplexor de 8 salidas (1:8) recibe una sola señal de entrada y también
 4. Explicar de forma sencilla qué es un sumador completo, un sumador medio y
 circuitos secuenciales.
 
+Un sumador medio es el circuito digital más básico para sumar. Toma dos bits (A y B) y produce dos resultados: la suma (S), que se obtiene con una compuerta XOR, y el acarreo de salida (C), que se obtiene con una compuerta AND. Su limitación es que no puede recibir un acarreo proveniente de una etapa anterior, por lo que solo sirve para sumar los bits menos significativos de un número.
 
-5. ¿Qué es un mapa de karnaugh? Y ¿para qué sirve?
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/407f20eb-0606-4923-ae84-77e85f30a114" />
+
+
+sumador completo (Full Adder), que suma tres bits: A, B y un acarreo de entrada (Cin) que viene de una etapa previa. Produce igualmente una suma S y un acarreo de salida Cout. Su gran ventaja es que varios sumadores completos se pueden encadenar en serie, donde el Cout de uno se convierte en el Cin del siguiente, permitiendo sumar números de cualquier cantidad de bits
+
+
+<img width="551" height="542" alt="image" src="https://github.com/user-attachments/assets/5e785e88-8535-4ebe-8ed5-93847ce4eb2c" />
+
+
+Los circuitos secuenciales representan un concepto más amplio y más poderoso. A diferencia de los circuitos combinacionales, donde la salida depende únicamente de las entradas en ese instante, en los circuitos secuenciales la salida depende de las entradas actuales y también del estado anterior del circuito, es decir, tienen memoria
+
+<img width="397" height="249" alt="image" src="https://github.com/user-attachments/assets/bf70abe6-6d93-4f64-9781-8e7ad5fd6064" />
+
+
+
+6. ¿Qué es un mapa de karnaugh? Y ¿para qué sirve?
