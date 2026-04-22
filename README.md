@@ -13,7 +13,7 @@ Latch: Es un dispositivo de almacenamiento biestable que es sensible al nivel (a
 <img width="796" height="274" alt="image" src="https://github.com/user-attachments/assets/76768306-c38b-4a7c-83d8-d35a47a26eb0" />
 
 
-### Tipos de Flip Flops: 
+### Tipos y caracteristicas: 
 
 FLIP FLOP SR (Ser-Reset): Es el tipo mas basico de celda de memoria, su funcionamiento se basa en dos entradas principales 
 
