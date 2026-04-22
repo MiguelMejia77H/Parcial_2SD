@@ -10,6 +10,8 @@ R// Flip-Flop: Son los bloques fundamentales de construccion de los circuitos di
 
 Latch: Es un dispositivo de almacenamiento biestable que es sensible al nivel (activo mientras la señal de control esté en un estado alto o bajo), cambia su estado cuando cambian las entradas es más simple pero menos controlado 
 
+<img width="796" height="274" alt="image" src="https://github.com/user-attachments/assets/76768306-c38b-4a7c-83d8-d35a47a26eb0" />
+
 
 ### Tipos de Flip Flops: 
 
@@ -45,8 +47,6 @@ Un multiplexor de 8 entradas (8:1) recibe 8 señales de datos (I₀ a I₇) y ne
 Un demultiplexor de 8 salidas (1:8) recibe una sola señal de entrada y también usa 3 líneas de selección para decidir a cuál de sus 8 salidas (Y₀ a Y₇) enviarla. Las demás salidas permanecen en 0. Si S₂S₁S₀ = 011, la señal de entrada aparece únicamente en Y₃, y el resto quedan apagadas. Es la operación inversa al MUX: en lugar de concentrar muchas señales en una, distribuye una señal hacia muchos destinos posibles
 
 <img width="420" height="359" alt="image" src="https://github.com/user-attachments/assets/e5ee0719-b7e7-4780-a15c-37ce25cb4fc8" />
-
-
 
 
 4. Explicar de forma sencilla qué es un sumador completo, un sumador medio y
