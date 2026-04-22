@@ -70,10 +70,33 @@ Los circuitos secuenciales representan un concepto más amplio y más poderoso. 
 
 6. ¿Qué es un mapa de karnaugh? Y ¿para qué sirve?
 
-Es una herramienta gráfica utilizada para simplificar funciones booleanas. Sirve para reducir el número de compuertas lógicas necesarias en un circuito, minimizando costos y espacio en el diseño digital.
-
+Es una herramienta gráfica para simplificar expresiones booleanas sin usar álgebra. Organiza todas las combinaciones posibles de variables en una cuadrícula donde las celdas adyacentes difieren en solo 1 bit (código Gray), sirve para minimizar funciones lógicas, es decir, obtener el circuito digital más simple posible con el menor número de compuertas, lo que reduce costo, tamaño y consumo.
 
 
 ## Parte de diseño 
 
+2A
+
 𝑋 = 𝐴𝐵ത (𝐶 + 𝐵𝐷 + 𝐴ҧ𝐵ത) c
+
+CIRCUITO:
+
+Desarrollar tabla de verdad a partir de la ecuación
+
+
+
+
+2B
+
+𝑋 = 𝐴𝐵ത𝐶 𝐵𝐷 + 𝐶𝐷𝐸 + 𝐴C
+
+CIRCUITO:
+
+Desarrollar tabla de verdad a partir de la ecuación
+
+<img width="1299" height="403" alt="image" src="https://github.com/user-attachments/assets/ddc8fb9f-322d-4c3c-8780-5bd0cee63752" />
+
+
+
+
+
