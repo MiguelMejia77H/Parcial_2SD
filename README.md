@@ -81,6 +81,10 @@ Es una herramienta gráfica para simplificar expresiones booleanas sin usar álg
 
 CIRCUITO:
 
+
+<img width="1310" height="734" alt="image" src="https://github.com/user-attachments/assets/31686dd1-a952-417f-a1cb-55248a44c1de" />
+
+
 Desarrollar tabla de verdad a partir de la ecuación
 <img width="1243" height="408" alt="image" src="https://github.com/user-attachments/assets/930ed96a-1a38-4244-8e7b-158f9d31e9f8" />
 
@@ -92,6 +96,8 @@ Desarrollar tabla de verdad a partir de la ecuación
 𝑋 = 𝐴𝐵ത𝐶 𝐵𝐷 + 𝐶𝐷𝐸 + 𝐴C
 
 CIRCUITO:
+<img width="1660" height="960" alt="image" src="https://github.com/user-attachments/assets/bad70eba-8b39-44cc-8253-a10abcd0932b" />
+
 
 Desarrollar tabla de verdad a partir de la ecuación
 
