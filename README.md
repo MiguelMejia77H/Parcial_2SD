@@ -82,7 +82,7 @@ Es una herramienta gráfica para simplificar expresiones booleanas sin usar álg
 CIRCUITO:
 
 Desarrollar tabla de verdad a partir de la ecuación
-<img width="1299" height="403" alt="image" src="https://github.com/user-attachments/assets/a30434f1-cce0-4feb-bc09-21003e7f5626" />
+<img width="1243" height="408" alt="image" src="https://github.com/user-attachments/assets/930ed96a-1a38-4244-8e7b-158f9d31e9f8" />
 
 
 
@@ -95,7 +95,7 @@ CIRCUITO:
 
 Desarrollar tabla de verdad a partir de la ecuación
 
-<img width="517" height="408" alt="image" src="https://github.com/user-attachments/assets/db5a15b2-c5c3-4170-ab61-fef637b968ec" />
+<img width="1188" height="668" alt="image" src="https://github.com/user-attachments/assets/42c59df5-a425-469f-ba19-9369f1c94b8e" />
 
 
 
