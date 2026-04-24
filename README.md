@@ -96,12 +96,13 @@ Desarrollar tabla de verdad a partir de la ecuación
 𝑋 = 𝐴𝐵ത𝐶 𝐵𝐷 + 𝐶𝐷𝐸 + 𝐴C
 
 CIRCUITO:
-<img width="1660" height="960" alt="image" src="https://github.com/user-attachments/assets/bad70eba-8b39-44cc-8253-a10abcd0932b" />
+
+<img width="1305" height="660" alt="image" src="https://github.com/user-attachments/assets/c00bf072-0fda-41db-9852-001432f78026" />
 
 
 Desarrollar tabla de verdad a partir de la ecuación
 
-<img width="1188" height="668" alt="image" src="https://github.com/user-attachments/assets/42c59df5-a425-469f-ba19-9369f1c94b8e" />
+<img width="106" height="762" alt="image" src="https://github.com/user-attachments/assets/4484142d-9503-4923-8bad-4a5b2dbbf082" />
 
 
 
