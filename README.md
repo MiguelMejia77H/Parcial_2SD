@@ -108,3 +108,5 @@ Desarrollar tabla de verdad a partir de la ecuación
 
 ## CHATBOT 
 
+Se agrega como archivo https://github.com/MiguelMejia77H/Parcial_2SD/blob/main/ChatBotMigue.py
+
